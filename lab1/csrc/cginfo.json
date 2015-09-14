@@ -1,0 +1,65 @@
+{
+    "MlibObjs": {},
+    "PrevCompiledModules": {
+        "...MASTER...": {
+            "amcQw_d": {
+                "bytes": 4446,
+                "out": "amcQw_d.o",
+                "mod": "...MASTER...",
+                "mode": 4,
+                "archive": "archive.4/_19884_archive_1.a"
+            }
+        },
+        "tb_MUX2_1": {
+            "ymIdV_d": {
+                "bytes": 8842,
+                "out": "ymIdV_d.o",
+                "mod": "tb_MUX2_1",
+                "mode": 4,
+                "archive": "archive.4/_19884_archive_1.a"
+            }
+        }
+    },
+    "CurCompileUdps": {},
+    "PEModules": [],
+    "NameTable": {
+        "tb_MUX2_1": [
+            "tb_MUX2_1",
+            "ymIdV",
+            "module"
+        ],
+        "...MASTER...": [
+            "SIM",
+            "amcQw",
+            "module"
+        ]
+    },
+    "CompileStrategy": "fullobj",
+    "SIMBData": {
+        "out": "amcQwB.o",
+        "bytes": 52291
+    },
+    "stat": {
+        "nMops": 209
+    },
+    "CurCompileModules": [
+        "...MASTER...",
+        "tb_MUX2_1"
+    ],
+    "LVLData": [
+        "SIM"
+    ],
+    "CompileProcesses": [
+        "cgproc.19884.json"
+    ],
+    "Misc": {
+        "cwd": "/home/users10/aub32131/526/lab1",
+        "csrc": "csrc",
+        "archive_dir": "archive.4",
+        "default_output_dir": "csrc",
+        "csrc_abs": "/home/users10/aub32131/526/lab1/csrc",
+        "daidir": "simv.daidir",
+        "daidir_abs": "/home/users10/aub32131/526/lab1/simv.daidir"
+    },
+    "CompileStatus": "Successful"
+}

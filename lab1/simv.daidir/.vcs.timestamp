@@ -1,0 +1,101 @@
+0 
+29
++cli+4
++itf+/usr/synopsys/J-2014.12-SP3-VCS/linux/lib/vcsd.tab
++memcbk
++vcsd
++vpi
++vpi
+-Mamsrun=
+-Masflags=--32
+-Mcc=gcc
+-Mcfl= -pipe -m32 -O -I/usr/synopsys/J-2014.12-SP3-VCS/include
+-Mcplusplus=g++
+-Mcrt0=
+-Mcrtn=
+-Mcsrc=
+-Mexternalobj=
+-Mldflags= -m32 -m32
+-Mobjects= /usr/synopsys/J-2014.12-SP3-VCS/linux/lib/libvirsim.so /usr/synopsys/J-2014.12-SP3-VCS/linux/lib/liberrorinf.so /usr/synopsys/J-2014.12-SP3-VCS/linux/lib/libsnpsmalloc.so
+-Mout=simv
+-Msaverestoreobj=/usr/synopsys/J-2014.12-SP3-VCS/linux/lib/vcs_save_restore_new.o
+-Msyslibs=/usr/synopsys/J-2014.12-SP3-VCS/linux/lib/ctype-stubs_32.a -ldl -lm
+-Mvcsaceobjs=
+-Mxcflags= -pipe -m32 -I/usr/synopsys/J-2014.12-SP3-VCS/include
+-Xcbug=0x1
+-debug=3
+-gen_obj
+-picarchive
+/usr/synopsys/J-2014.12-SP3-VCS/linux/bin/vcs1
+MUX2_1.v
+tb_MUX2_1.v
+58
+sysc_uni_pwd=/home/users10/aub32131/526/lab1
+XMODIFIERS=@im=none
+XDG_SESSION_COOKIE=d32bd04f78f4c806e07f9de60000007d-1441759149.213046-1959149653
+XAUTHORITY=/var/run/gdm/auth-for-aub32131-Cto5C6/database
+WINDOWPATH=7
+VMR_MODE_FLAG=32
+VCS_MX_HOME_INTERNAL=1
+VCS_HOME=/usr/synopsys/J-2014.12-SP3-VCS
+VCS_DEPTH=0
+VCS_BASE_HOME=/usr/synopsys/J-2014.12-SP3-VCS
+VCS_ARG_ADDED_FOR_TMP=1
+VCS_ARCH=linux
+VCS_AMD_PURE32=1
+USERNAME=aub32131
+UNAME=/bin/uname
+TOOL_HOME=/usr/synopsys/J-2014.12-SP3-VCS/linux
+STROOT=/usr/synopsys/K-2015.06-SP1-ICC
+SSH_AUTH_SOCK=/tmp/keyring-LBklai/socket.ssh
+SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass
+SNPSLMD_LICENSE_FILE=27020@jd-ece2
+SESSION_MANAGER=local/unix:@/tmp/.ICE-unix/29471,unix/unix:/tmp/.ICE-unix/29471
+SCRNAME=vcs
+SCRIPT_NAME=vcs
+QT_IM_MODULE=xim
+QTLIB=/usr/lib64/qt-3.3/lib
+QTINC=/usr/lib64/qt-3.3/include
+QTDIR=/usr/lib64/qt-3.3
+OVA_UUM=0
+ORBIT_SOCKETDIR=/tmp/orbit-aub32131
+MODULESHOME=/usr/share/Modules
+MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles
+LOADEDMODULES=
+LESSOPEN=|/usr/bin/lesspipe.sh %s
+LC_ALL=C
+KDEDIRS=/usr
+INPUTRC=/etc/inputrc
+IMSETTINGS_MODULE=none
+IMSETTINGS_INTEGRATE_DESKTOP=yes
+G_BROKEN_FILENAMES=1
+GTK_RC_FILES=/etc/gtk/gtkrc:/home/users10/aub32131/.gtkrc-1.2-gnome2
+GPG_AGENT_INFO=/tmp/seahorse-i6ePVF/S.gpg-agent:29549:1;
+GNOME_KEYRING_SOCKET=/tmp/keyring-LBklai/socket
+GNOME_KEYRING_PID=29461
+GNOME_DESKTOP_SESSION_ID=this-is-deprecated
+GIO_LAUNCHED_DESKTOP_FILE_PID=5963
+GIO_LAUNCHED_DESKTOP_FILE=/usr/share/applications/gnome-terminal.desktop
+GDM_LANG=en_US.UTF-8
+GDM_KEYBOARD_LAYOUT=us
+GDMSESSION=gnome
+DESKTOP_SESSION=gnome
+DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-w3potl1fM4,guid=171e0db18c6990c5a10504fd000fee16
+CVS_RSH=ssh
+COLORTERM=gnome-terminal
+CLS_CDSD_COMPATIBILITY_LOCKING=NO
+CLASSPATH=/usr/java/jdk1.8.0_11/include:.
+CDS_LIC_FILE=/opt/cadence/license/license.dat
+CDSDOC_PROJECT=/opt/cadence/cdsdoc_list/
+A__z="*SHLVL
+0
+3
+1441768288 tb_MUX2_1.v
+1441158989 MUX2_1.v
+1436327278 /usr/synopsys/J-2014.12-SP3-VCS/linux/lib/vcsd.tab
+4
+0 
+1436327561 /usr/synopsys/J-2014.12-SP3-VCS/linux/lib/libvirsim.so
+1436327332 /usr/synopsys/J-2014.12-SP3-VCS/linux/lib/liberrorinf.so
+1436327324 /usr/synopsys/J-2014.12-SP3-VCS/linux/lib/libsnpsmalloc.so
+1441768320 simv.daidir

@@ -1,0 +1,65 @@
+{
+    "Misc": {
+        "archive_dir": "archive.3",
+        "default_output_dir": "csrc",
+        "cwd": "/home/users10/aub32131/526/lab1",
+        "daidir": "simv.daidir",
+        "csrc": "csrc",
+        "csrc_abs": "/home/users10/aub32131/526/lab1/csrc",
+        "daidir_abs": "/home/users10/aub32131/526/lab1/simv.daidir"
+    },
+    "MlibObjs": {},
+    "CurCompileModules": [
+        "...MASTER...",
+        "tb_MUX2_1"
+    ],
+    "PrevCompiledModules": {
+        "...MASTER...": {
+            "amcQw_d": {
+                "archive": "archive.3/_18890_archive_1.a",
+                "bytes": 4446,
+                "mode": 4,
+                "mod": "...MASTER...",
+                "out": "amcQw_d.o"
+            }
+        },
+        "tb_MUX2_1": {
+            "ymIdV_d": {
+                "archive": "archive.3/_18890_archive_1.a",
+                "bytes": 8842,
+                "mode": 4,
+                "mod": "tb_MUX2_1",
+                "out": "ymIdV_d.o"
+            }
+        }
+    },
+    "CompileProcesses": [
+        "cgproc.18890.json"
+    ],
+    "CurCompileUdps": {},
+    "NameTable": {
+        "tb_MUX2_1": [
+            "tb_MUX2_1",
+            "ymIdV",
+            "module"
+        ],
+        "...MASTER...": [
+            "SIM",
+            "amcQw",
+            "module"
+        ]
+    },
+    "LVLData": [
+        "SIM"
+    ],
+    "PEModules": [],
+    "CompileStrategy": "fullobj",
+    "SIMBData": {
+        "out": "amcQwB.o",
+        "bytes": 52291
+    },
+    "stat": {
+        "nMops": 209
+    },
+    "CompileStatus": "Successful"
+}

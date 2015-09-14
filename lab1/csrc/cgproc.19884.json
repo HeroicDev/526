@@ -1,0 +1,41 @@
+{
+    "CompUnits": {
+        "amcQw_d": {
+            "out": "amcQw_d.o",
+            "mod": "...MASTER...",
+            "bytes": 4446,
+            "mode": 4,
+            "archive": "archive.4/_19884_archive_1.a"
+        },
+        "ymIdV_d": {
+            "out": "ymIdV_d.o",
+            "mod": "tb_MUX2_1",
+            "bytes": 8842,
+            "mode": 4,
+            "archive": "archive.4/_19884_archive_1.a"
+        }
+    },
+    "Modules": {
+        "...MASTER...": {},
+        "tb_MUX2_1": {
+            "Compiled": "Yes",
+            "Compiled Times": 5
+        }
+    },
+    "ObjArchives": [
+        {
+            "archive": "archive.4/_19884_archive_1.a",
+            "objects": [
+                [
+                    "amcQw_d.o",
+                    4446
+                ],
+                [
+                    "ymIdV_d.o",
+                    8842
+                ]
+            ],
+            "size": 13288
+        }
+    ]
+}

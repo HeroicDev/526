@@ -1,0 +1,70 @@
+Chronologic VCS simulator copyright 1991-2014
+Contains Synopsys proprietary information.
+Compiler version J-2014.12-SP3; Runtime version J-2014.12-SP3;  Sep  8 20:17 2015
+VCD+ Writer J-2014.12-SP3 Copyright (c) 1991-2014 by Synopsys Inc.
+                   0 out = x a = x b = x sel = x
+                  10 out = x a = 0 b = x sel = x
+                  20 out = x a = 1 b = 0 sel = x
+                  30 out = x a = x b = 0 sel = 0
+                  40 out = x a = z b = 1 sel = 0
+                  50 out = 0 a = 0 b = 1 sel = 0
+                  60 out = x a = 1 b = x sel = 1
+                  70 out = x a = x b = x sel = 1
+                  80 out = x a = z b = z sel = 1
+                  90 out = x a = 0 b = z sel = x
+                 100 out = x a = 1 b = 0 sel = x
+                 110 out = x a = x b = 0 sel = x
+                 120 out = x a = z b = 1 sel = z
+                 130 out = x a = 0 b = 1 sel = z
+                 140 out = x a = 1 b = x sel = z
+                 150 out = x a = x b = x sel = 0
+                 160 out = x a = z b = z sel = 0
+                 170 out = 0 a = 0 b = z sel = 0
+                 180 out = 0 a = 1 b = 0 sel = 1
+                 190 out = 0 a = x b = 0 sel = 1
+                 200 out = 1 a = z b = 1 sel = 1
+                 210 out = x a = 0 b = 1 sel = x
+                 220 out = x a = 1 b = x sel = x
+                 230 out = x a = x b = x sel = x
+                 240 out = x a = z b = z sel = z
+                 250 out = x a = 0 b = z sel = z
+                 260 out = x a = 1 b = 0 sel = z
+                 270 out = x a = x b = 0 sel = 0
+                 280 out = x a = z b = 1 sel = 0
+                 290 out = 0 a = 0 b = 1 sel = 0
+                 300 out = x a = 1 b = x sel = 1
+                 310 out = x a = x b = x sel = 1
+                 320 out = x a = z b = z sel = 1
+                 330 out = x a = 0 b = z sel = x
+                 340 out = x a = 1 b = 0 sel = x
+                 350 out = x a = x b = 0 sel = x
+                 360 out = x a = z b = 1 sel = z
+                 370 out = x a = 0 b = 1 sel = z
+                 380 out = x a = 1 b = x sel = z
+                 390 out = x a = x b = x sel = 0
+                 400 out = x a = z b = z sel = 0
+                 410 out = 0 a = 0 b = z sel = 0
+                 420 out = 0 a = 1 b = 0 sel = 1
+                 430 out = 0 a = x b = 0 sel = 1
+                 440 out = 1 a = z b = 1 sel = 1
+                 450 out = x a = 0 b = 1 sel = x
+                 460 out = x a = 1 b = x sel = x
+                 470 out = x a = x b = x sel = x
+                 480 out = x a = z b = z sel = z
+                 490 out = x a = 0 b = z sel = z
+                 500 out = x a = 1 b = 0 sel = z
+                 510 out = x a = x b = 0 sel = 0
+                 520 out = x a = z b = 1 sel = 0
+                 530 out = 0 a = 0 b = 1 sel = 0
+                 540 out = x a = 1 b = x sel = 1
+                 550 out = x a = x b = x sel = 1
+                 560 out = x a = z b = z sel = 1
+                 570 out = x a = 0 b = z sel = x
+                 580 out = x a = 1 b = 0 sel = x
+                 590 out = x a = x b = 0 sel = x
+$finish called from file "tb_MUX2_1.v", line 39.
+$finish at simulation time                  600
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 600 ns
+CPU Time:      0.490 seconds;       Data structure size:   0.0Mb
+Tue Sep  8 20:17:04 2015
